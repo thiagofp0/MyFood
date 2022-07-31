@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFood</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="marketplaces">Mercados</string>
+    <string name="drinks">Bebidas</string>
+</resources>
