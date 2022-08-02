@@ -27,10 +27,17 @@
     </androidx.appcompat.widget.Toolbar>
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/addTab"
-        android:layout_width="match_parent"
+        app:tabMode="auto"
+        app:tabIndicatorFullWidth="false"
+        app:tabIndicatorHeight="1dp"
+        app:tabIndicatorColor="@color/red"
+        app:tabSelectedTextColor="@color/red"
+        app:tabTextColor="@color/gray"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
     <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/addViewPager"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
