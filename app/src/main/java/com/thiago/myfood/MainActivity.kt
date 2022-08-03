@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
 class TabViewPageAdapter(fa: FragmentActivity) : FragmentStateAdapter(fa){
 
     val tabs = arrayOf(R.string.restaurants, R.string.marketplaces, R.string.drinks)
-    val fragments = arrayOf(MarketplaceFragment(), MarketplaceFragment(), MarketplaceFragment())
+    val fragments = arrayOf(RestaurantFragment(), MarketplaceFragment(), MarketplaceFragment())
 
     override fun getItemCount() = fragments.size
 
