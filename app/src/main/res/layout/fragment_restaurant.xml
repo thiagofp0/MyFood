@@ -5,6 +5,7 @@
     android:layout_height="match_parent">
 
     <HorizontalScrollView
+        android:clipToPadding="false"
         android:paddingHorizontal="8dp"
         android:paddingVertical="12dp"
         android:scrollbars="none"
