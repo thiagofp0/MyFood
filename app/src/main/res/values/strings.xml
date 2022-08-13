@@ -6,4 +6,9 @@
     <string name="dotted">&#x2022;</string>
     <string name="famous">Famosos no MyFood</string>
     <string name="see_more">Ver mais</string>
+    <string name="shop_category">\u2022 %1$s \u2022 %2$.1f km</string>
+    <string name="shop_price">%1$s min \u2022 R$ %2$.2f</string>
+    <string name="shops">Lojas</string>
+    <string name="explore_more">Explore mais com a conta do MyFood</string>
+    <string name="enter">Entrar ou cadastrar-se</string>
 </resources>

@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Thiago/Projetos/Android/MyFood/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.332" />
+        <entry key="..\:/Thiago/Projetos/Android/MyFood/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.347" />
         <entry key="..\:/Thiago/Projetos/Android/MyFood/app/src/main/res/font/bahnschrift.xml" value="0.4010416666666667" />
         <entry key="..\:/Thiago/Projetos/Android/MyFood/app/src/main/res/font/sulsans.xml" value="0.40208333333333335" />
         <entry key="..\:/Thiago/Projetos/Android/MyFood/app/src/main/res/layout/activity_main.xml" value="0.371875" />
@@ -11,6 +12,7 @@
         <entry key="..\:/Thiago/Projetos/Android/MyFood/app/src/main/res/layout/category_item.xml" value="0.5" />
         <entry key="..\:/Thiago/Projetos/Android/MyFood/app/src/main/res/layout/chip_choice.xml" value="0.190625" />
         <entry key="..\:/Thiago/Projetos/Android/MyFood/app/src/main/res/layout/fragment_restaurant.xml" value="0.33" />
+        <entry key="..\:/Thiago/Projetos/Android/MyFood/app/src/main/res/layout/more_shop_item.xml" value="0.371875" />
         <entry key="..\:/Thiago/Projetos/Android/MyFood/app/src/main/res/layout/shop_item.xml" value="0.371875" />
       </map>
     </option>
