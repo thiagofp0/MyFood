@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
         val viewPager = binding.addViewPager
         var adapter = TabViewPageAdapter(this)
         viewPager.adapter = adapter
+        viewPager.isUserInputEnabled = false
 
         TabLayoutMediator(tabLayout, viewPager){ tab, position ->
             tab.text = getString(adapter.tabs[position])

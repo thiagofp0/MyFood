@@ -3,4 +3,5 @@
     <string name="restaurants">Restaurantes</string>
     <string name="marketplaces">Mercados</string>
     <string name="drinks">Bebidas</string>
+    <string name="dotted">&#x2022;</string>
 </resources>

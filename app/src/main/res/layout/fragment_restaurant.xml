@@ -23,4 +23,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_banners"
+        android:clipToPadding="false"
+        android:paddingHorizontal="6dp"
+        android:layout_marginTop="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:id="@+id/dots"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
 </LinearLayout>
